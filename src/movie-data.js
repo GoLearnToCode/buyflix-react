@@ -1,3 +1,4 @@
+// Use SampleData.movies to get this data in index.js
 var movieData = [
   {
     "key": 15,

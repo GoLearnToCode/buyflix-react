@@ -1,3 +1,4 @@
+// Use LotsMoreMovies.movies to get this data in index.js
 var lotsMoreMovies = [
   {
     "key": 1,
